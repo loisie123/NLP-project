@@ -10,7 +10,7 @@ By:
 
 
 ### Introduction
-This research implements a neural graph-based dependency parser and its evaluation on two different languages. The projects build on the model proposed in Kiperwasser and Goldberg, where we use a Long-Short Term Memory (LSTM) neural network. 
+This research implements a neural graph-based dependency parser and its evaluation on two different languages. The project is guided by the model proposed in Kiperwasser and Goldberg, where they use a Long-Short Term Memory (LSTM) neural network to predict the graph-based dependancy arcs and labels.  
 
 ### Packages
 
@@ -28,14 +28,11 @@ The read_data.py reads the CONLL-U files and makes dictionaries of the existing 
 
 ### Training
 
-The code for training the LSTM neural network can be found in train.py. To start training your own neural network you should run the train_data.ipythb
+The code for training the LSTM neural network can be found in train.py. When you want to train your own LSTM neural network, you should follow the steps in the parser.ipynb
 
 ### Evaluate
 
-To evaluate the correctness of our parser we used the UAS and the LAS scores. These are calculated in parser.ipytb 
-To run this evaluation for English you should run in the notebook:
-```test_accuracy("path-to-test-file", "path-to-network")```
-
+To evaluate the correctness of our parser we used the UAS and the LAS scores. When you want to test out LSTM neural networks for both languages follow the instructions in parser.ipynb. 
 
 
 
