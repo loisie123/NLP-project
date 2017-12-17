@@ -28,7 +28,7 @@ The read_data.py reads the CONLL-U files and makes dictionaries of the existing 
 
 ### Training
 
-The code for training the LSTM neural network can be found in train.py. When you want to train your own LSTM neural network, you should follow the steps in the parser.ipynb
+The code for training the LSTM RNN can be found in train.py. When you want to train your own LSTM RNN, you should follow the steps in the parser.ipynb
 
 ### Evaluate
 
