@@ -1,4 +1,4 @@
-# NLP-project
+
 
 # Neural Graph-based Dependency parsing:
 ## A LSTM model to resolve ambiguity in natural language
