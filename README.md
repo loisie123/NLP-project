@@ -14,7 +14,7 @@ This research implements a neural graph-based dependency parser and its evaluati
 
 ### Packages
 
-The packages that are used in this research are:
+The packages that were used in this project are:
 * PyTorch
 * Networkx
  
