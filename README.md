@@ -34,7 +34,7 @@ The code for training the LSTM neural network can be found in train.py. To start
 
 To evaluate the correctness of our parser we used the UAS and the LAS scores. These are calculated in parser.ipytb 
 To run this evaluation for English you should run in the notebook:
-`test_accuracy("path-to-test-file", "path-to-network")`
+```test_accuracy("path-to-test-file", "path-to-network")```
 
 
 
