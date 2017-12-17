@@ -6,7 +6,7 @@
 By:
 * **Koen Derks** (10518215)
 * **Mirthe van Diepen** (10327428)
-* **Lois van Vliet**(10438033) 
+* **Lois van Vliet** (10438033) 
 
 
 ### Introduction
@@ -21,8 +21,8 @@ The packages that were used in this project are:
 
 ### Data
 
-We used the data from the Universal Dependency [project](http://universaldependencies.org). The training sets for both English and Dutch consisted of 1000 sentences. 
-The test dataset consisted of 500 sentences.  
+We used the data from the Universal Dependency [project](http://universaldependencies.org). We trained LSTM neural network models for both English and Dutch for 1000 sentences.  
+The models were tested with 500 sentences
 
 The read_data.py reads the CONLL-U files and makes dictionaries of the existing words. 
 
