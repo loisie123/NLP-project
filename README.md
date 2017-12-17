@@ -21,8 +21,8 @@ The packages that are used in this research are:
 
 ### Data
 
-We used the data from the Universal Dependency [project](http://universaldependencies.org). The English train dataset consisted of 12,543 sentences, but we used only 1000 sentence for training. The Dutch train dataset contained 12,269 sentences, we used all. 
-To test the neural graph-based dependency parser, we used 600 sentences from the test set. 
+We used the data from the Universal Dependency [project](http://universaldependencies.org). The training sets for both English and Dutch consisted of 1000 sentences. 
+The Test dataset consistend of 600 sentences.  
 
 The read_data.py reads in the CONLLU files and makes dictionaries of the existing words. 
 
