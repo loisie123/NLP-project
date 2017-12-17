@@ -1,7 +1,7 @@
 
 
-# Neural Graph-based Dependency parsing:
-## A LSTM model to resolve ambiguity in natural language
+# Neural Graph-based Dependency Parsing:
+## A LSTM Model to Resolve Ambiguity in Natural Language
 
 By:
 * **Koen Derks** (10518215)
