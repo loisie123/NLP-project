@@ -28,11 +28,11 @@ The read_data.py reads the CONLL-U files and makes dictionaries of the existing 
 
 ### Training
 
-The code for training the LSTM RNN can be found in train.py. When you want to train your own LSTM RNN, you should follow the steps in the parser.ipynb
+The code for training the LSTM RNN can be found in train.py. When you want to train your own LSTM RNN, you should follow the steps in the Dependency_Parser.ipynb. By running the second cell in the notebook, the net will be re-trained.
 
 ### Evaluate
 
-To evaluate the correctness of our parser we used the UAS and the LAS scores. When you want to test out LSTM neural networks for both languages follow the instructions in parser.ipynb. 
+To evaluate the correctness of our parser we used the UAS and the LAS scores. When you want to test out LSTM neural networks for both languages follow the instructions in Dependency_Parser.ipynb. 
 
 
 This was a project for the course Natural Language processing at the University of Amsterdam.  
