@@ -24,11 +24,11 @@ The packages that are used in this research are:
 We used the data from the Universal Dependency [project](http://universaldependencies.org). The training sets for both English and Dutch consisted of 1000 sentences. 
 The Test dataset consistend of 600 sentences.  
 
-The read_data.py reads in the CONLLU files and makes dictionaries of the existing words. 
+The read_data.py reads the CONLLU files and makes dictionaries of the existing words. 
 
 ### Training
 
-The code for training the LSTM neural network can be found in train.py. To start training your own neural network you should run the train_data.ipytb
+The code for training the LSTM neural network can be found in train.py. To start training your own neural network you should run the train_data.ipythb
 
 ### Evaluate
 
@@ -38,9 +38,4 @@ To run this evaluation for English you should run in the notebook:
 
 
 
-### parsing 
-
-If you want to parse a sentences you should run in the notebook
-
-(THIS IS NOG NIET MOGELIJK)
 
