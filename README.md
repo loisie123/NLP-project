@@ -35,4 +35,4 @@ The code for training the LSTM neural network can be found in train.py. When you
 To evaluate the correctness of our parser we used the UAS and the LAS scores. When you want to test out LSTM neural networks for both languages follow the instructions in parser.ipynb. 
 
 
-
+This was a project for the course Natural Language processing at the University of Amsterdam.  
