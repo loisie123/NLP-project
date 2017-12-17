@@ -5,8 +5,8 @@
 
 By:
 * **Koen Derks** (10518215)
-* ** Mirthe van Diepen** (10327428)
-* ** Lois van Vliet**(10438033) 
+* **Mirthe van Diepen** (10327428)
+* **Lois van Vliet**(10438033) 
 
 
 ### Introduction
